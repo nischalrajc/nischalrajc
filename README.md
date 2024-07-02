@@ -15,6 +15,14 @@ I'm a passionate full-stack developer specializing in the MERN stack. I enjoy bu
  
 </p>
 
+## 🚀 About Me
+
+- 💻 Full-Stack Developer with a focus on the MERN (MongoDB, Express, React, Node.js) stack.
+- 🌍 Based in Kochi, India.
+- 🎓 Bachelor's degree in Bsc Computer Science from Calicut University.
+- 🏆 Over a  year of experience in web development.
+- 🌟 Always eager to learn and adapt to new challenges.
+
 <h2 align="center">🛠 Technologies & Skills</h2>
 <p align="center">
    
@@ -124,10 +132,14 @@ I'm a passionate full-stack developer specializing in the MERN stack. I enjoy bu
    </a>
 </p>
 <br/>
-<h2 align="center">💻 Projects</h2>
+<!-- <h2 align="center">💻 Projects</h2>
 <p align="left">
   Here are some of my projects:
-</p>
-
+</p>-->
+<!--
 - 🛍️ [MELCO_ecomproject](https://melco.cloud/)
-- 🚀 [TakeCare_healthService](https://takecareofficial.online/) 
+- 🚀 [TakeCare_healthService](https://takecareofficial.online/)-->
+
+Feel free to explore my repositories and projects. If you have any questions or collaboration ideas, don't hesitate to reach out!
+
+Happy coding!
