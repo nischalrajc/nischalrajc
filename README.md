@@ -4,15 +4,14 @@
 I'm a passionate full-stack developer specializing in the MERN stack. I enjoy building innovative web applications and exploring new technologies. My journey in software development has been fueled by my love for coding and constant learning.
 <p align="center"> 
  <a href="https://www.linkedin.com/in/nischal-raj-60703a215" alt="Your LinkedIn">
-   <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/your_linkedin_profile" />
+   <img src="https://img.shields.io/badge/%20-Nischal_Raj-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/your_linkedin_profile" />
  </a>
- <a href="https://leetcode.com/nischalraj/" alt="Your LeetCode">
+<!--  <a href="https://leetcode.com/nischalraj/" alt="Your LeetCode">
    <img src="https://img.shields.io/badge/%20-LeetCode-%23FFA116?logo=leetcode&logoColor=white&style=for-the-badge" />
- </a>
- <a href="https://your-blog.netlify.app" alt="Your Blog">
-   <img src="tps://img.shields.io/badge/%20-Blog-%23FF5722?logo=blogger&logoColor=white&style=for-the-badge" />
+ </a> -->
+ <a href="mailto:nischalraj22@gmail.com" alt="Your Email">
+   <img src="https://img.shields.io/badge/%20-nischalraj22-%23c14438?logo=gmail&logoColor=white&style=for-the-badge" />
  </a> 
- 
 </p>
 
 ## 🚀 About Me
