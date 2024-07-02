@@ -35,91 +35,91 @@ I'm a passionate full-stack developer specializing in the MERN stack. I enjoy bu
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="45" height="45"/> 
    </a>   
    
-   <a href="">
+   <a href="https://www.java.com/en/">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="45"
       height="45" style="vertical-align:top;">
    </a>
-   <a href="">
+   <a href="https://www.javascript.com/">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript"
       width="45" height="45" style="vertical-align:top;">
    </a>
-   <a href="">
+   <a href="https://html.com/">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" width="45"
       height="45" style="vertical-align:top;">
    </a>
    <a href="https://aws.amazon.com/">
     <img src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" alt="AWS" width="45" height="45"  style="vertical-align:top;"/>
    </a>
-   <a href="https://aws.amazon.com/">
+   <a href="https://www.ajax.nl/">
     <img src="https://raw.githubusercontent.com/github/explore/8be26d91eb231fec0b8856359979ac09f27173fd/topics/ajax/ajax.png" alt="Ajax" width="45" height="45"  style="vertical-align:top;"/>
    </a>
-   <a href="https://aws.amazon.com/">
+   <a href="https://getbootstrap.com/">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap" width="45" height="45"  style="vertical-align:top;"/>
    </a>
-    <a href="https://aws.amazon.com/">
+    <a href="https://www.cprogramming.com/">
     <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" alt="C" width="45" height="45"  style="vertical-align:top;"/>
    </a>
-   <a href="https://aws.amazon.com/">
+   <a href="https://www.w3.org/Style/CSS/Overview.en.html">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="45" height="45"  style="vertical-align:top;"/>
    </a>
-   <a href="https://aws.amazon.com/">
+   <a href="">
     <img src="https://raw.githubusercontent.com/github/explore/13295c57999765ac9ffa3281942a72ab08b79de2/topics/database/database.png" alt="Database" width="45" height="45"  style="vertical-align:top;"/>
    </a>
-   <a href="https://aws.amazon.com/">
+   <a href="https://firebase.google.com/">
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase" width="45" height="45"  style="vertical-align:top;"/>
    </a>
-   <a href="https://aws.amazon.com/">
-    <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="45" height="45"  style="vertical-align:top;"/>
-   </a>
-    <a href="https://aws.amazon.com/">
+    <a href="https://github.com/">
     <img  src="https://raw.githubusercontent.com/github/explore/89bdd9644f44d1b12180fd512b95574fe4c54617/topics/github-api/github-api.png" alt="Github" width="45" height="45"  style="vertical-align:top;"/>
    </a>
-    <a href="https://aws.amazon.com/">
+   <a href="https://www.mongodb.com/">
+    <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"  width="45" height="45"  style="vertical-align:top;"/>
+   </a>
+    <a href="https://mongoosejs.com/">
     <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png" alt="Mongoose" width="45" height="45"  style="vertical-align:top;"/>
    </a>
-   <a href="https://aws.amazon.com/">
+   <a href="https://nodejs.org/en">
     <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs" width="45" height="45"  style="vertical-align:top;"/>
    </a>
-   <a href="https://aws.amazon.com/">
+   <a href="https://www.npmjs.com/">
     <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="NPM" width="45" height="45"  style="vertical-align:top;"/>
    </a>
-   <a href="https://aws.amazon.com/">
+   <a href="https://react.dev/">
     <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="45" height="45"  style="vertical-align:top;"/>
    </a>
-   <a href="https://aws.amazon.com/">
+   <a href="https://redux.js.org/">
     <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Redux" width="45" height="45"  style="vertical-align:top;"/>
    </a>
-   <a href="https://aws.amazon.com/">
+   <a href="https://www.mysql.com/">
     <img  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" width="45" height="45"  style="vertical-align:top;"/>
    </a>
-   <a href="https://aws.amazon.com/">
+   <a href="https://tailwindui.com/">
     <img  src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.3c5441fc7a190fb1800d4a5c7f07ba4b1345a9c8.svg" alt="TailwindCss" width="45" height="45"  style="vertical-align:top;"/>
    </a>
-   <a href="https://aws.amazon.com/">
+   <a href="https://webrtc.org/">
     <img   src="https://webrtc.github.io/webrtc-org/assets/images/webrtc-logo-vert-retro-255x305.png" alt="WebRTC" width="45" height="45"  style="vertical-align:top;"/>
    </a>
-   <a href="https://aws.amazon.com/">
+   <a href="https://jwt.io/">
     <img  src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="45" height="45"  style="vertical-align:top;"/>
    </a>
-   <a href="https://aws.amazon.com/">
+   <a href="https://www.nodemailer.com/">
     <img  src="https://www.nodemailer.com/nm_logo_200x136.png" alt="Nodemailer" width="45" height="45"  style="vertical-align:top;"/>
    </a>
-   <a href="https://aws.amazon.com/">
+   <a href="https://www.paypal.com/in/home">
     <img  src="https://www.paypalobjects.com/webstatic/mktg/logo/pp_cc_mark_37x23.jpg" alt="Paypal width="45" height="45"  style="vertical-align:top;"/>
    </a>
-   <a href="https://aws.amazon.com/">
+   <a href="https://stripe.com/in">
     <img  src="https://avatars.githubusercontent.com/u/856813?s=48&v=4" alt="Stripe" width="45" height="45"  style="vertical-align:top;"/>
    </a>
-   <a href="https://aws.amazon.com/">
+   <a href="https://socket.io/">
     <img  src="https://avatars.githubusercontent.com/u/10566080?s=48&v=4" alt="Socket.io" width="45" height="45"  style="vertical-align:top;"/>
    </a>
-   <a href="https://aws.amazon.com/">
+   <a href="https://www.mongodb.com/cloud/atlas/register">
     <img  src="https://avatars.githubusercontent.com/u/45120?s=48&v=4" alt="Mongo Atlas" width="45" height="45"  style="vertical-align:top;"/>
    </a>
-   <a href="https://aws.amazon.com/">
+   <a href="https://code.visualstudio.com/">
     <img  src="https://code.visualstudio.com/assets/images/code-stable.png" alt="Vscode" width="45" height="45"  style="vertical-align:top;"/>
    </a>
-   <a href="https://aws.amazon.com/">
+   <a href="https://www.figma.com/">
     <img src="https://avatars.githubusercontent.com/u/5155369?s=48&v=4" alt="Figma" width="45" height="45"  style="vertical-align:top;"/>
    </a>
 </p>
