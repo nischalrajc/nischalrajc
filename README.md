@@ -1,8 +1,7 @@
 ![](assets/header.png)
 <h1 align="center">Hi there, I'm Nischal Raj 👋</h1>
 
-I'm a self-taught MERN Stack developer passionate about frontend and backend development. I have completed an e-commerce main project and several mini-projects in the javacript language. I am familiar with clean code architecture. I am constantly learning and looking for new challenges.
-
+I'm a passionate full-stack developer specializing in the MERN stack. I enjoy building innovative web applications and exploring new technologies. My journey in software development has been fueled by my love for coding and constant learning.
 <p align="center"> 
  <a href="https://www.linkedin.com/in/nischal-raj-60703a215" alt="Your LinkedIn">
    <img src="https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/your_linkedin_profile" />
